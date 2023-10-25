@@ -15,6 +15,9 @@ Getting started with ULTRA
 - Installing the software.
 - Changing parameters in config file
 - Instantiating the simulator.
+- Running recursive algorithm
+- Getting optimal wfs&c parameters
+- Building the tolerance table.
 
 
 ------------------------------------------------
@@ -22,3 +25,4 @@ Getting started with ULTRA
 Acknowledgements:
 ==================
 - The Space Telescope Science Institute collaborators in particular, the ULTRA team.
+- Ball Aerospace, L3 Harris Technologies.
