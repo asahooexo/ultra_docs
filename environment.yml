@@ -1,0 +1,12 @@
+name: ultra_docs
+dependencies:
+  - astropy
+  - flake8
+  - jupyter
+  - matplotlib
+  - numpy
+  - pip
+  - python=3.10
+  - pip:
+    - sphinx
+    - sphinx-rtd-theme
