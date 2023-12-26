@@ -12,10 +12,9 @@ wavefront tolerances for segmented mirrors during a science observation.
 
 .. toctree::
    :maxdepth: 1
-   :caption: Contents
 
-   introduction
-   installation
+   introduction.rst
+   installation.rst
 
 -----------------------
 
@@ -23,8 +22,7 @@ Requirements and Installation
 =============================
 
 * :ref:`installation`
-#* :ref:`modindex`
-#* :ref:`search`
+
 
 
 Acknowledgements
