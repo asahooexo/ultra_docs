@@ -1,5 +1,8 @@
 .. _installation:
 
+============
+Installation
+============
 Pre-install `conda` and `git` in your machine.
 
 - Navigate to the directory you want to clone the repository into::

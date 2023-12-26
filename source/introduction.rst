@@ -1,4 +1,9 @@
 .. _introduction:
+
+============
+Introduction
+============
+
 ``ultra`` repository presents a segment-level thermal stability error budget for segmented space
 telescopes crucial to Earth-like planet detection. The package uses multiple segmented primary
 mirror architectures concluded from a survey by the SCDA (Segmented Coronagraph Design \& Analysis)
