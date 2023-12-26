@@ -11,8 +11,8 @@ It leverages the PASTIS algorithm, and a close-loop recursive algorithm to estim
 wavefront tolerances for segmented mirrors during a science observation.
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 1
+   :caption: Contents
 
    installation.rst
 
