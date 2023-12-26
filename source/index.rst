@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Introduction
+Getting started
 ======================================
 ``ultra`` repository comprises analytical algorithms which is used to compute wavefront tolerances for
 segmented primary mirror relevant to the scenario of exo-earth imaging with future large space telescopes.
@@ -14,15 +14,17 @@ wavefront tolerances for segmented mirrors during a science observation.
    :maxdepth: 1
    :caption: Contents
 
-   installation.rst
+   introduction
+   installation
 
+-----------------------
 
 Requirements and Installation
 =============================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+* :ref:`installation`
+#* :ref:`modindex`
+#* :ref:`search`
 
 
 Acknowledgements
