@@ -15,12 +15,11 @@ multiple segmented-primary mirror architectures with their optimized coronagraph
    :align: center
    :alt: Example
 
-   Figure : Analysis results for a 19-segment SCDA telescope design
+   Figure : Analysis results for a 19-segment
+   `SCDA <https://exoplanets.nasa.gov/exep/technology/SCDA/>`_ telescope design
 
 Getting started with ``ultra``
 ================================
-Contents
---------
 .. toctree::
    :maxdepth: 1
    :caption: Contents
