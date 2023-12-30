@@ -39,18 +39,11 @@ To install and use the package users should read the instructions mentioned in t
 
    Users are encouraged to cite one or more of the following references when using ``ultra`` package.
 
-    * Coyle et al. 2023, "Continued maturation of enabling component-level technologies for
-    large, segmented ultra-stable telescopes", Proc. SPIE. 12676
+    * Coyle et al. 2023, "Continued maturation of enabling component-level technologies for large, segmented ultra-stable telescopes", Proc. SPIE. 12676
 
-    * Sahoo et al. 2022, "Segment-level thermal sensitivity analysis for exo-Earth imaging.",
-    Proc. SPIE. 12180
+    * Sahoo et al. 2022, "Segment-level thermal sensitivity analysis for exo-Earth imaging.", Proc. SPIE. 12180
 
-   If there is no appropriate place in the body of text to cite these references,
-   please include something along the lines of the following in your acknowledgements:
-
-   *"This research made use of ultra, a python package to compute pm-level wavefront error
-   budget for exo-earth imaging."*
-
+   If there is no appropriate place in the body of text to cite these references, please include something along the lines of the following in your acknowledgements: *"This research made use of ultra, a python package to compute pm-level wavefront error budget for exo-earth imaging."*
 --------------------------------------------
 
 Acknowledgements
