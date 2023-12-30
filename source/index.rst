@@ -3,13 +3,24 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Getting started
-======================================
-``ultra`` repository comprises analytical algorithms which is used to compute wavefront tolerances for
-segmented primary mirror relevant to the scenario of exo-earth imaging with future large space telescopes.
-It leverages the PASTIS algorithm, and a close-loop recursive algorithm to estimate the static and dynamic
-wavefront tolerances for segmented mirrors during a science observation.
+``ultra``: a python package for pm-level wavefront tolerance analysis for exo-earth imaging
+============================================================================================
+``ultra`` is a python package developed to estimate maximum allowable wavefront-error drifts for Earth-like
+planet imaging with future space telescopes. The package comprises various analytical tools to simulate
+wavefront error propagation through a coronagraphic system, to calculate static tolerances using PASTIS algorithm
+and dynamic tolerances with a close-loop recursive algorithm. The package supports wavefront-error budget analysis for
+multiple segmented-primary mirror architectures with their optimized coronagraphic masks.
 
+.. figure:: images/surface_pm_s.png
+   :align: center
+   :alt: Example
+
+   Figure : Analysis results for a 19-segment SCDA telescope design
+
+Getting started with ``ultra``
+================================
+Contents
+--------
 .. toctree::
    :maxdepth: 1
    :caption: Contents
