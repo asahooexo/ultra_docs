@@ -41,6 +41,7 @@ To install and use the package users should read the instructions mentioned in t
 
     * Coyle et al. 2023, "Continued maturation of enabling component-level technologies for
     large, segmented ultra-stable telescopes", Proc. SPIE. 12676
+
     * Sahoo et al. 2022, "Segment-level thermal sensitivity analysis for exo-Earth imaging.",
     Proc. SPIE. 12180
 
@@ -55,9 +56,6 @@ To install and use the package users should read the instructions mentioned in t
 Acknowledgements
 ================
 
-- The ``ultra`` package is created in support of the Ultra-Stable Telescope Research and Analysis
-(ULTRA) Program under Contract No. 80MSFC20C0018 with the National Aeronautics and Space Administration
-(PI: Laura E. Coyle)
+- The ``ultra`` package is created in support of the Ultra-Stable Telescope Research and Analysis (ULTRA) Program under Contract No. 80MSFC20C0018 with the National Aeronautics and Space Administration (PI: Laura E. Coyle)
 
-- The `Space Telescope Science Institute collaborators <https://www.stsci.edu/>`_, in
-particular the ULTRA team, Ball Aerospace and L3 Harris Technologies.
+- The `Space Telescope Science Institute collaborators <https://www.stsci.edu/>`_, in particular the ULTRA team, Ball Aerospace and L3 Harris Technologies.
