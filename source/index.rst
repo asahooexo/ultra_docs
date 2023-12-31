@@ -51,4 +51,4 @@ Acknowledgements
 
 - The ``ultra`` package is created in support of the Ultra-Stable Telescope Research and Analysis (ULTRA) Program under Contract No. 80MSFC20C0018 with the National Aeronautics and Space Administration (PI: Laura E. Coyle)
 
-- The `Space Telescope Science Institute collaborators <https://www.stsci.edu/>`_, in particular the ULTRA team, Ball Aerospace and L3 Harris Technologies.
+- The `Space Telescope Science Institute collaborators <https://www.stsci.edu/>`_, in particular the ULTRA team, Ball Aerospace and L3Harris Technologies.
