@@ -1,9 +1,20 @@
+.. _workflow:
+
 =========
 Workflow
 =========
 
-- Changing parameters in config file
-- Instantiating the simulator.
-- Running recursive algorithm
-- Getting optimal wfs&c parameters
-- Building the tolerance table.
+
+1. Setup config file
+---------------------
+
+Changing parameters in config file
+
+2. Instantiating a telescope simulator
+--------------------------------------
+
+
+3. Running recursive algorithm
+-------------------------------
+Getting optimal wfs&c parameters
+Building the tolerance table.
