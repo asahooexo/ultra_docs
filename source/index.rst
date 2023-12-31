@@ -15,8 +15,8 @@ multiple segmented-primary mirror architectures with their optimized coronagraph
    :align: center
    :alt: Example
 
-   Figure : Analysis results for a 19-segment
-   `SCDA <https://exoplanets.nasa.gov/exep/technology/SCDA/>`_ telescope design.
+   Figure : Example of a wavefront error stability analysis results for a 19-segment
+   `SCDA <https://exoplanets.nasa.gov/exep/technology/SCDA/>`_ telescope design, colorbar represents maximum allowable dynamic surface deformation to achieve a stable dark hole contrast.
 
 The ``ultra`` package is developed by the ULTRA research team at
 the `Space Telescope Science Institute <https://www.stsci.edu/>`_, and is privately hosted at
@@ -51,4 +51,4 @@ Acknowledgements
 
 - The ``ultra`` package is created in support of the Ultra-Stable Telescope Research and Analysis (ULTRA) Program under Contract No. 80MSFC20C0018 with the National Aeronautics and Space Administration (PI: Laura E. Coyle)
 
-- The `Space Telescope Science Institute collaborators <https://www.stsci.edu/>`_, in particular the ULTRA team, Ball Aerospace and L3Harris Technologies.
+- The `Space Telescope Science Institute collaborators <https://www.stsci.edu/>`_, in particular the ULTRA team, `Ball Aerospace <https://www.ball.com/aerospace>`_ and `L3Harris Technologies <https://www.l3harris.com/>`_.
