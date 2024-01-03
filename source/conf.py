@@ -18,8 +18,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'ultra_docs'
-copyright = '2023, asahoo'
-author = 'asahoo'
+copyright = '2023, Ananya Sahoo'
+author = 'Ananya Sahoo'
 
 # The full version, including alpha/beta/rc tags
 release = 'v1'
